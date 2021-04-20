@@ -1,4 +1,4 @@
-# cst438-group-d
+# CST438 Spring '21 - Project 3 - Group D
 
 Team members: Juan Ramirez, Adrian Ortiz, Bryan Hernandez, Pedro Muñoz
 
